@@ -34,7 +34,7 @@ body {
   outline: none;
   background: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  font-size: 120px;
+  font-size: 85px;
   color: rgba(0, 0, 0, 0.5);
   cursor: pointer;
   /* transition: background 0.2s ease; */
